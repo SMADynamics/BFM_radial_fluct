@@ -9,6 +9,7 @@ Aix Marseille Universite, CNRS, Laboratoire de Chimie Bacterienne Marseille, Fra
 Contact: francesco.pedaci -AT- cbs.cnrs.fr
 
 Preprint : <https://arxiv.org/abs/2106.15435>
+
 Published: [Nat Comm 13, Article number: 2925 (2022)](https://www.nature.com/articles/s41467-022-30295-7) 
 
 
